@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Davidmwangi32
 - 👀 I’m interested in electronics
-- 🌱 I’m currently learning Golong
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on IoT
 - 📫 How to reach me ...davidelephant32@gmail.com 
 
