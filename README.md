@@ -1,6 +1,6 @@
 # Hi there, I'm David 👋
 
-Welcome to my GitHub profile! I'm a versatile **Full-Stack Developer** and **Electronics Specialist** with expertise in electrical and electronic shock safety. Currently, I'm also working as a **Mortician**, bringing a unique perspective to my technical projects. I enjoy solving complex problems and am passionate about projects involving **PLC programming**, **CCTV installation and maintenance**, and **waste management systems**.
+Welcome to my GitHub profile! I'm a versatile **Full-Stack Developer** and **Electronics Specialist** with expertise in electrical and electronic shock safety. I enjoy solving complex problems and am passionate about projects involving **PLC programming**, **CCTV installation and maintenance**, and **waste management systems**.
 
 ---
 
